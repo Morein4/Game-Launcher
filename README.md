@@ -64,7 +64,7 @@ There are many great Game Launcher, however, I didn't find one that really suite
 
 Here's why:
 * Main focused is on creating something amazing and free not having $ as the foundation. Where players play for free is the gole.
-* You should implement DRY principles to the rest of your life :smile:
+* Without Users limits and countrys ristraction everyone is free to play
 * Without the outrageous cut and fees.
 
 Of course, windows Game Launcher will not serve all projects since your needs may be different like Android or IOS Game or App. So I'll be making android and IOS Game Launcher in the future. 
