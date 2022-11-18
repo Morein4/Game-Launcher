@@ -112,7 +112,7 @@ How to use the software and how to install it.
 Setting up your app.
 
 1. Get a free Account at [https://morein4.com](https://morein4.com)
-2. Login on the app. <p align="right">(<a href="# Installation for Users">If One</a>)</p> `is not done first you be pointed to the website to make a new account`
+2. Login on the app. <p>(<a href="### Installation for Users">If One</a>)</p> `is not done first you be pointed to the website to make a new account`
    ```txt
    
    ```
