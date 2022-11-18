@@ -224,9 +224,9 @@ List helpful resources:
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
-[typescriptlang.org]: https://img.shields.io/badge/typescriptlang-0769AD?style=for-the-badge&logo=typescript&logoColor=white
+[typescriptlang.org]: https://img.shields.io/badge/typescriptlang-0469AD?style=for-the-badge&logo=typescript&logoColor=white
 [typescriptlang-url]: https://typescriptlang.org 
 
 
-[nodejs.org]: https://img.shields.io/badge/nodejs-0769AD?style=for-the-badge&logo=node&logoColor=white
+[nodejs.org]: https://img.shields.io/badge/nodejs-0739AD?style=for-the-badge&logo=nodejs&logoColor=white
 [nodejs-url]: https://nodejs.org 
