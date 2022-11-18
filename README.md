@@ -228,5 +228,5 @@ List helpful resources:
 [typescriptlang-url]: https://typescriptlang.org 
 
 
-[nodejs.com]: https://img.shields.io/badge/nodejs-0769AD?style=for-the-badge&logo=nodejs&logoColor=white
-[nodejs-url]: https://nodejs.com 
+[nodejs.org]: https://img.shields.io/badge/nodejs-0769AD?style=for-the-badge&logo=nodejs&logoColor=white
+[nodejs-url]: https://nodejs.org 
