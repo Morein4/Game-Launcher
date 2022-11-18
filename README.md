@@ -238,4 +238,4 @@ List helpful resources:
 [firebase-url]: https://firebase.org 
 
 
-[product-demo]: https://video.xx.fbcdn.net/v/t42.1790-2/274754231_1567394756994281_4567666192698321266_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=985c63&efg=eyJybHIiOjMwMCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&_nc_ohc=PHrDbEdAwcYAX_bgudC&rl=300&vabr=88&_nc_ht=video-hbe1-1.xx&oh=00_AfBCCnd2HU5THs2eshl9L8izCNqnIMii4PiEGH4ixwLk7g&oe=6377D9B8
+[product-demo]:
