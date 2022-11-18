@@ -86,7 +86,8 @@ Here are a list of rameworks/libraries that i like to use on my projects.
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![typescriptlang][typescriptlang.org]][typescriptlang-url]
-
+* [![firebase][firebase.org]][firebase-url]
+* 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -224,3 +225,7 @@ List helpful resources:
 
 [typescriptlang.org]: https://img.shields.io/badge/typescriptlang-0769AD?style=for-the-badge&logo=typescript&logoColor=white
 [typescriptlang-url]: https://typescriptlang.org 
+
+
+[firebase.com]: https://img.shields.io/badge/firebase-0769AD?style=for-the-badge&logo=firebase&logoColor=white
+[firebase-url]: https://firebase.com 
