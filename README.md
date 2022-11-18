@@ -63,8 +63,7 @@
 There are many great Game Launcher, however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a Game Launcher so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
-* Your time should be focused on creating something amazing like a Game or a Smart App. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a Game Launcher from scratch
+* Main focused is on creating something amazing like for games not having $ as the foundation. Where players playing for free is the gole.
 * You should implement DRY principles to the rest of your life :smile:
 * Without the outrageous cut and fees.
 
