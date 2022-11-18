@@ -86,8 +86,9 @@ Here are a list of rameworks/libraries that i like to use on my projects.
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![typescriptlang][typescriptlang.org]][typescriptlang-url]
-* [![node][node.org]][node-url]
-* 
+* [![nodejs][nodejs.org]][nodejs-url]
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -227,5 +228,5 @@ List helpful resources:
 [typescriptlang-url]: https://typescriptlang.org 
 
 
-[node.com]: https://img.shields.io/badge/node-0769AD?style=for-the-badge&logo=node&logoColor=white
-[node-url]: https://firebase.com 
+[nodejs.com]: https://img.shields.io/badge/nodejs-0769AD?style=for-the-badge&logo=nodejs&logoColor=white
+[nodejs-url]: https://nodejs.com 
