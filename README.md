@@ -85,6 +85,7 @@ Here are a list of rameworks/libraries that i like to use on my projects.
 * [![Angular][Angular.io]][Angular-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* [![typescriptlang][typescriptlang.org]][typescriptlang-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
