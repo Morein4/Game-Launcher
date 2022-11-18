@@ -86,6 +86,7 @@ Here are a list of rameworks/libraries that i like to use on my projects.
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![typescriptlang][typescriptlang.org]][typescriptlang-url]
+* [![firebase][firebase.org]][firebase-url]
 * [![nodejs][nodejs.org]][nodejs-url]
 
 
@@ -230,3 +231,7 @@ List helpful resources:
 
 [nodejs.org]: https://img.shields.io/badge/nodejs-0739AD?style=for-the-badge&logo=javascript&logoColor=white
 [nodejs-url]: https://nodejs.org 
+
+
+[firebase.org]: https://img.shields.io/badge/Firebase-sa39dD?style=for-the-badge&logo=Firebase&logoColor=white
+[firebase-url]: https://firebase.org 
