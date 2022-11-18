@@ -80,7 +80,7 @@ I really feel satisfied whenever i learn more that helps me Expanding and share 
 
 ### Built With
 
-Here are a list of rameworks/libraries that i like to use on my projects.
+Here are a list of frameworks/libraries that i like to use on my projects.
 
 
 * [![Angular][Angular.io]][Angular-url]
