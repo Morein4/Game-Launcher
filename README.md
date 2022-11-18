@@ -63,7 +63,7 @@
 There are many great Game Launcher, however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a Game Launcher so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
-* Main focused is on creating something amazing like for games not having $ as the foundation. Where players playing for free is the gole.
+* Main focused is on creating something amazing and free not having $ as the foundation. Where players playing for free is the gole.
 * You should implement DRY principles to the rest of your life :smile:
 * Without the outrageous cut and fees.
 
