@@ -6,7 +6,7 @@
   </a>
 
   <h3 align="center">Michael Alexcan</h3>
-  [![RigTag][RigTag]][RigTag-url]]
+  [![RigTag][RigTag]]
 
   <p align="center">
     A Smart Game Launcher
