@@ -21,9 +21,10 @@
   </p>
 
   
-  [![RigTag][RigTag]][RigTag-url]
   
 </div>
+  [![RigTag][RigTag]][RigTag-url]
+
 
 
 
