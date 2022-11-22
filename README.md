@@ -6,6 +6,7 @@
   </a>
 
   <h3 align="center">Michael Alexcan</h3>
+  [![RigTag][RigTag]][RigTag-url]
 
   <p align="center">
     A Smart Game Launcher
@@ -19,10 +20,8 @@
     ·
     <a href="/issues">Request Feature</a>
   </p>
-
-  
-  
 </div>
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -42,6 +41,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    
+    
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
