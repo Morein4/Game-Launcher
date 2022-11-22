@@ -21,7 +21,7 @@
   </p>
 
   
-  [![RigTag][RigTag]][RigTag-url]
+  [[RigTag]][RigTag-url]
   
 </div>
 
