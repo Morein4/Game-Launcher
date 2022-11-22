@@ -6,7 +6,6 @@
   </a>
 
   <h3 align="center">Michael Alexcan</h3>
-  [![RigTag][RigTag]]
 
   <p align="center">
     A Smart Game Launcher
@@ -71,7 +70,6 @@ Of course, windows Game Launcher will not serve all projects since your needs ma
 You may also suggest changes by opening an issue. Thanks to all the people have showed interest and are supporting me
 I really feel satisfied whenever i learn more that helps me Expanding and share my knowledge!
 
-[product-demo](https://morein4.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
