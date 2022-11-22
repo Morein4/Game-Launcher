@@ -23,9 +23,6 @@
   
   
 </div>
-  [![RigTag][RigTag]][RigTag-url]
-
-
 
 
 <!-- TABLE OF CONTENTS -->
