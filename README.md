@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/rigtag">
+  <a href="https://github.com/michael-alexcan">
     <img src="https://avatars.githubusercontent.com/u/24999330?s=400&u=3449d44cd6a25224f44f645fc4386e2ed9471958&v=4" alt="Logo" width="150" height="150">
   </a>
 
@@ -10,7 +10,7 @@
   <p align="center">
     A Smart Game Launcher
     <br />
-    <a href="https://github.com/rigtag"><strong>View Personal Github</strong></a>
+    <a href="https://github.com/michael-alexcan"><strong>View Personal Github</strong></a>
     <br />
     <br />
     <a href="morein4.com">View Demo</a>
@@ -190,7 +190,7 @@ Not yet decided
 
 Name - [@michael_alexcan](https://twitter.com/michael_alexcan) - michael.alexcan@gmail.com
 
-Projects: [https://github.com/rigtag](https://github.com/rigatg)
+Projects: [https://github.com/michael-alexcan](https://github.com/rigatg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -214,8 +214,8 @@ List helpful resources:
 [product-screenshot]: https://morein4.com/assets/params/images/banners/Morein4_Banner.png
 
 
-[RigTag]: https://img.shields.io/badge/RigTag-Michael%20Alexcan-green
-[RigTag-url]: https://github.com/rigtag
+[michael-alexcan]: https://img.shields.io/badge/michael-alexcan-Michael%20Alexcan-green
+[michael-alexcan-url]: https://github.com/michael-alexcan
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
