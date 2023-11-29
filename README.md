@@ -114,13 +114,14 @@ Setting up your app.
    ```txt
    
    ```
-3. download games and install them
+3. Unlock download [@morein4](https://morein4.com/contact) - info@morein4.com
    ```txt
-   
+    Contact Morein4 for more information on how you can get your own game launcher
+    Email - https://morein4.com/contact
    ```
-4. Lunach the games from the Game Lunacher `config.js`
+4. Download the Game Lunacher use the`config.js` to point the the location of the game
    ```txt
-   
+   Installtion of the game Dir
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
