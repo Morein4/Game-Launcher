@@ -17,7 +17,7 @@
     ·
     <a href="../../issues">Report Bug</a>
     ·
-    <a href="../issues">Request Feature</a>
+    <a href="../../issues">Request Feature</a>
   </p>
 </div>
 
