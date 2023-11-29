@@ -190,7 +190,7 @@ Not yet decided
 
 Name - [@michael_alexcan](https://twitter.com/michael_alexcan) - michael.alexcan@gmail.com
 
-Projects: [https://github.com/michael-alexcan](https://github.com/rigatg)
+Projects: [https://github.com/michael-alexcan](https://github.com/michael-alexcan)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
