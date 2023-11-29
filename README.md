@@ -112,7 +112,7 @@ Setting up your app.
 1. Get a free Account at [https://morein4.com](https://morein4.com)
 2. Login on the app. `If Stap one is not done first you be pointed to the website to make a new account`
    ```txt
-   
+   https://morein4.com/profile
    ```
 3. Unlock download [@morein4](https://morein4.com/contact) - info@morein4.com
    ```txt
@@ -121,7 +121,11 @@ Setting up your app.
    ```
 4. Download the Game Lunacher use the`config.js` to point the the location of the game
    ```txt
-   Installtion of the game Dir
+   {
+   gameTitle: '',
+   gameLocation:''
+   },
+   {[]} <-- Custom variable -->
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
