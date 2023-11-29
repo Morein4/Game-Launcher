@@ -15,7 +15,7 @@
     <br />
     <a href="https://morein4.com">View Demo</a>
     ·
-    <a href="../issues">Report Bug</a>
+    <a href="../../issues">Report Bug</a>
     ·
     <a href="../issues">Request Feature</a>
   </p>
