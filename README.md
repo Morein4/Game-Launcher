@@ -179,7 +179,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Contact Morein4 for more information on how you can get the your own game launcher
+Contact Morein4 for more information on how you can get your own game launcher
 
 Email - [@morein4](https://morein4.com/contact) - info@morein4.com
 
