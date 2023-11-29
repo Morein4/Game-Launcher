@@ -13,7 +13,7 @@
     <a href="https://github.com/michael-alexcan"><strong>View Personal Github</strong></a>
     <br />
     <br />
-    <a href="morein4.com">View Demo</a>
+    <a href="https://morein4.com">View Demo</a>
     ·
     <a href="/issues">Report Bug</a>
     ·
