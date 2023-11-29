@@ -180,7 +180,7 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Contact Morein4 for more information on get the your own game launcher
-Email - [michael_alexcan@morein4](info@morein4.com) - minfo@morein4.com
+Email - [@morein4](https://morein4.com/contact) - info@morein4.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
