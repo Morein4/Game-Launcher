@@ -189,7 +189,8 @@ Email - [@morein4](https://morein4.com/contact) - info@morein4.com
 <!-- CONTACT -->
 ## Contact
 
-Michael Alexcan Info - [Twitter@michael_alexcan](https://twitter.com/michael_alexcan) [Github@michael-alexcan](https://github.com/michael-alexcan) - michael.alexcan@gmail.com 
+Michael Alexcan Info - [Twitter@michael_alexcan](https://twitter.com/michael_alexcan) [Github@michael-alexcan](https://github.com/michael-alexcan) - michael.alexcan@gmail.com
+
 Morein4 Contact Info - [@morein4](https://morein4.com/contact) - info@morein4.com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
