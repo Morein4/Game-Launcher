@@ -1,6 +1,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+    <a href="https://github.com/michael-alexcan">
+    <img src="https://pbs.twimg.com/media/GASjGeyWMAE_uff?format=jpg&name=medium">
+  </a>
+  <br />
+  <br />
   <a href="https://github.com/michael-alexcan">
     <img src="https://avatars.githubusercontent.com/u/24999330?s=400&u=3449d44cd6a25224f44f645fc4386e2ed9471958&v=4" alt="Logo" width="150" height="150">
   </a>
