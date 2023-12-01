@@ -57,6 +57,12 @@
     <img src="https://pbs.twimg.com/media/GASjGeyWMAE_uff?format=jpg&name=medium">
 </a>
   <br />
+  <br />
+
+<a href="https://github.com/michael-alexcan">
+    <img src="https://pbs.twimg.com/media/GASs1meWcAA0nl6?format=jpg&name=medium">
+</a>
+  <br />
   
 <!-- ABOUT THE PROJECT -->
 ## About The Game Launcher
