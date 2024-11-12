@@ -1,0 +1,64 @@
+# Morein4 Actions
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+    
+jobs:
+  run-server:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [20]
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Use environment variables
+        env:
+          NODE_ENV: ${{ vars.APP_ENV }}
+          PORT: 3000
+          COOKIE_SECRET: ${{ vars.COOKIE_SECRET }}
+          SUPERADMIN_USERNAME: ${{ vars.SUPERADMIN_USERNAME }}
+          SUPERADMIN_PASSWORD: ${{ vars.SUPERADMIN_PASSWORD }}
+          SMTP_EMAIL: ${{ vars.EMAIL }}
+          SMTP_PASS: ${{ vars.PASS }}
+          
+          FIREPLAY: ${{ vars.FIREPLAY }}
+          FIRECHAT: ${{ vars.FIRECHAT }}
+          FIREMEDIA: ${{ vars.FIREMEDIA }}
+          
+          STEAM_ID: ${{ vars.STEAM_ID }}
+          STEAM_APIKEY: ${{ vars.STEAM_APIKEY }}
+          
+          DISCORD_CLIENT_ID: ${{ vars.DISCORD_CLIENT_ID }}
+          DISCORD_CLIENT_SECRET: ${{ vars.DISCORD_CLIENT_SECRET }}
+          DISCORD_TOKEN: ${{ vars.DISCORD_TOKEN }}
+          
+          AI_API: ${{ vars.AI_API }}
+          
+          JWT_SECRET: ${{ vars.JWT_SECRET }}
+          
+        run: |
+          echo "Environment variable is ${{ vars.EMAIL }}"
+
+      - name: Cache node modules
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install dependencies
+        run: npm install --production # Installs only production dependencies
+
+      - name: Run the server
+        run: npm run start & # Run the server in the background (adjust if needed)
